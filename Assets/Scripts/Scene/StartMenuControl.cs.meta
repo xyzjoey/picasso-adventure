@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb62acb3f7bed6e4ea7084d12e917405
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modeCanvas: {fileID: 7034962275577586471, guid: 7c0a0f9dcba0bcf47b549c5700cd3d09,
+      type: 3}
+  - stageSelectCanvas: {fileID: 8788669013139462083, guid: cd6725173ca8e6f40b1d60789ef000ef,
+      type: 3}
+  - modeScroll: {instanceID: 0}
+  - stageScroll: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
