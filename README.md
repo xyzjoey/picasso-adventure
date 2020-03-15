@@ -10,8 +10,8 @@ A 3D drawing puzzle game by Unity
 <th>Color mixture</th>
 </tr>
 <tr>
-<td align="center"><img src="screenshot\draw1.gif" height="400"></td>
-<td align="center"><img src="screenshot\draw2.gif" height="400"></td>
-<td align="center"><img src="screenshot\draw3.gif" height="400"></td>
+<td align="center"><img src="screenshot\draw1.gif"></td>
+<td align="center"><img src="screenshot\draw2.gif"></td>
+<td align="center"><img src="screenshot\draw3.gif"></td>
 </tr>
 </table>
