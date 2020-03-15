@@ -14,9 +14,9 @@ Use brush stroke as path to reach certain locations or interact with balls to tr
 <th>Color mixture</th>
 </tr>
 <tr>
-<td align="center"><img src="screenshot\draw1.gif"></td>
-<td align="center"><img src="screenshot\draw2.gif"></td>
-<td align="center"><img src="screenshot\draw3.gif"></td>
+<td align="center"><img src="screenshot\draw1.gif"><br/>Drag to create brush strokes</td>
+<td align="center"><img src="screenshot\draw2.gif"><br/>Ripples occur when brush strokes are touched</td>
+<td align="center"><img src="screenshot\draw3.gif"><br/>Colors are mixed when brush strokes intersect</td>
 </tr>
 </table>
 
@@ -28,6 +28,6 @@ Use brush stroke as path to reach certain locations or interact with balls to tr
 <th>Switches</th>
 </tr>
 <tr>
-<td align="center"><img src="screenshot\stage1.gif" height="200"><br/>(different switches to generate balls with different colors)</td>
+<td align="center"><img src="screenshot\stage1.gif" height="200"><br/>Different switches to generate balls with different colors</td>
 </tr>
 </table>
