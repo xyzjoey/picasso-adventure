@@ -28,6 +28,6 @@ Use brush stroke as path to reach certain locations or interact with balls to tr
 <th>Switches</th>
 </tr>
 <tr>
-<td align="center"><img src="screenshot\stage1.gif" height="200"><br/>(different switch to generate balls in different colors)</td>
+<td align="center"><img src="screenshot\stage1.gif" height="200"><br/>(different switches to generate balls with different colors)</td>
 </tr>
 </table>
