@@ -6,7 +6,7 @@ Use brush stroke as path to reach certain locations or interact with balls to tr
 
 <table>
 <tr>
-<th>Drawing</th>
+<th colspan="3">Drawing</th>
 </tr>
 <tr>
 <th>Brush stroke generation</th>
