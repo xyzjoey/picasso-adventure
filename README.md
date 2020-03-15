@@ -2,7 +2,7 @@
 A 3D drawing puzzle game by Unity
 
 ## Description
-Main idea: Use brush stroke as path to reach certain locations or use them to interact with balls to trigger switches, and eventually reach the destination in each stage.
+Main idea: Use brush stroke as path to reach certain locations or use them to interact with objects to trigger switches, and eventually reach the destination in each stage.
 
 <table>
 <tr>
